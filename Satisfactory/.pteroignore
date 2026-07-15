@@ -1,0 +1,4 @@
+*
+!FactoryGame/Mod/*
+!FactoryGame/Saved/Config/LinuxServer/*
+!.config/Epic/FactoryGame/Saved/*
